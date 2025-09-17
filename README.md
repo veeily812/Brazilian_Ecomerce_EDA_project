@@ -12,18 +12,6 @@ The dataset provides a comprehensive view of each order, including:
 - **Product Attributes:** Details about product categories, descriptions, and physical characteristics.
 - **Customer Reviews:** Survey responses and written feedback, with all company and partner names replaced by Game of Thrones great houses for privacy.
 
-**Note:**  
-- An order may contain multiple items, and each item can be fulfilled by a different seller.
-- All identifying text for stores and partners has been anonymized.
-
-## Additional Data: Marketing Funnel
-
-A separate Marketing Funnel Dataset is available and can be joined with the e-commerce dataset for a marketing perspective on each order. Instructions for joining these datasets are provided within the project resources.
-
-## Context
-
-Olist connects small businesses from across Brazil to major sales channels through a single platform. Merchants sell products via the Olist Store and leverage Olist's logistics partners for direct shipping to customers. After delivery or upon the estimated delivery date, customers receive a satisfaction survey to rate their purchase experience and provide comments.
-
 For more information about Olist, visit: [www.olist.com](https://www.olist.com).
 
 ## Data Exploration 
@@ -31,6 +19,7 @@ For more information about Olist, visit: [www.olist.com](https://www.olist.com).
 - Then we going understand the data by visualization
 - After that, we gonna do feature engineering for creating new columns which contain valuable insights
 - Finally, we make assumptions for our dataset and recommendation. In this dataset, we explored the potentials for logististic department.
+## *) Insight 1
 
 <img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/7e0ee31f-5254-4ab3-a7c2-3260b53e41bf" />
 
@@ -58,7 +47,8 @@ It indicate these products take longer to reach customers.
 - Product categories with consistently high delivery delays or durations could be targeted for process improvements.
 - Understanding which categories are most affected can help optimize logistics and customer satisfaction.
 
-  
+## *) Insight 2
+
 <img width="1236" height="1770" alt="image" src="https://github.com/user-attachments/assets/507c417c-972d-4cb1-b854-4ecbd36260f3" />
 
 # Distribution of Product Categories
