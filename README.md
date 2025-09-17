@@ -1,0 +1,79 @@
+# Brazilian E-Commerce Public Dataset by Olist
+
+Welcome! This dataset contains real, anonymized commercial data from Olist, the largest department store in Brazilian marketplaces. It covers over 100,000 orders placed between 2016 and 2018 across multiple Brazilian marketplaces.
+
+## Dataset Overview
+
+The dataset provides a comprehensive view of each order, including:
+- **Order Status:** Track the progress of orders from placement to delivery or cancellation.
+- **Price & Payment:** Detailed information on item prices, payment types, and transaction values.
+- **Freight Performance:** Insights into shipping costs and delivery timelines.
+- **Customer Location:** Anonymized customer data with associated Brazilian zip codes and geolocation information (lat/lng).
+- **Product Attributes:** Details about product categories, descriptions, and physical characteristics.
+- **Customer Reviews:** Survey responses and written feedback, with all company and partner names replaced by Game of Thrones great houses for privacy.
+
+**Note:**  
+- An order may contain multiple items, and each item can be fulfilled by a different seller.
+- All identifying text for stores and partners has been anonymized.
+
+## Additional Data: Marketing Funnel
+
+A separate Marketing Funnel Dataset is available and can be joined with the e-commerce dataset for a marketing perspective on each order. Instructions for joining these datasets are provided within the project resources.
+
+## Context
+
+Olist connects small businesses from across Brazil to major sales channels through a single platform. Merchants sell products via the Olist Store and leverage Olist's logistics partners for direct shipping to customers. After delivery or upon the estimated delivery date, customers receive a satisfaction survey to rate their purchase experience and provide comments.
+
+For more information about Olist, visit: [www.olist.com](https://www.olist.com).
+
+## Data Exploration 
+- First we doing to load the dataset and remove all NaN values
+- Then we going understand the data by visualization
+- After that, we gonna do feature engineering for creating new columns which contain valuable insights
+- Finally, we make assumptions for our dataset and recommendation. In this dataset, we explored the potentials for logististic department.
+
+<img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/7e0ee31f-5254-4ab3-a7c2-3260b53e41bf" />
+
+# Insights on Delivery Performance by Product Category
+
+This section summarizes key findings from the analysis of delivery durations and delays across product categories.
+
+## 1. Product Category Impacts Delivery Performance
+Some categories consistently have longer carrier handling times, delivery durations, or delays such as
++ aticos de natal (chirstmas decoration)
++ móveis escritório (furniture designed for office or workspace)
++ fashion calcados (Styled shoes and footwear).
+
+It indicate these products take longer to reach customers.
+
+## 2. Carrier Handling and Delivery Delays Are Not Uniform
+- The difference in blue (carrier handling days) and orange (delivery delay days) bars across categories suggests that logistics efficiency and punctuality vary by product type.
+- Categories with negative delivery delay days (orange bars below zero) may be delivered earlier than estimated.
+
+## 3. Potential Bottlenecks or Efficiency
+- Categories with high carrier handling days might face bottlenecks in shipping or require special handling.
+- Categories with low or negative delivery delay days may have more reliable or faster delivery processes.
+
+## 4. Areas for Improvement
+- Product categories with consistently high delivery delays or durations could be targeted for process improvements.
+- Understanding which categories are most affected can help optimize logistics and customer satisfaction.
+
+  
+<img width="1236" height="1770" alt="image" src="https://github.com/user-attachments/assets/507c417c-972d-4cb1-b854-4ecbd36260f3" />
+
+# Distribution of Product Categories
+
+The "Distribution of Product Categories" pie chart reveals which product categories dominate the marketplace and where strategic focus could yield the greatest results. According to the chart, the categories with the largest segments—and therefore the highest sales volume or product count—are:
+
+- **cama_mesa_banho** (bed, table, and bath items): Includes sheets, towels, bedding, and tablecloths.
+- **beleza_saude** (beauty and health): Encompasses skincare, cosmetics, haircare, supplements, and personal care products.
+- **esporte_lazer** (sports and leisure): Covers exercise equipment, outdoor gear, and recreational items.
+- **moveis_decoracao** (furniture and decoration): Consists of sofas, chairs, tables, lamps, and home decor accessories.
+- **informatica_acessorios** (computer accessories): Includes keyboards, mice, monitors, cables, and other tech peripherals.
+- **utilidades_domesticas** (household utilities): Features kitchen tools, cleaning supplies, storage solutions, and everyday household items.
+- **eletrônicos** (electronics): Comprises smartphones, tablets, computers, televisions, and audio equipment.
+
+Focusing on these high-volume categories can help maximize sales and market share, as they represent the core interests of the customer base. Additionally, monitoring trends in these categories allows for timely inventory adjustments and targeted marketing campaigns. For further growth, consider exploring opportunities in smaller yet emerging segments such as **brinquedos** (toys), **perfumaria** (perfumery), and **bebe** (baby products), which may offer potential for expansion with the right promotional strategies.
+
+By prioritizing these specific product categories, the marketplace can better align its resources with consumer demand and drive sustained business growth.
+
