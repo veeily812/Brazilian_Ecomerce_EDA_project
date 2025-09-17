@@ -23,8 +23,6 @@ For more information about Olist, visit: [www.olist.com](https://www.olist.com).
 
 <img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/7e0ee31f-5254-4ab3-a7c2-3260b53e41bf" />
 
-# Insights on Delivery Performance by Product Category
-
 This section summarizes key findings from the analysis of delivery durations and delays across product categories.
 
 ## 1. Product Category Impacts Delivery Performance
@@ -50,8 +48,6 @@ It indicate these products take longer to reach customers.
 ## +) Insight 2
 
 <img width="1236" height="1770" alt="image" src="https://github.com/user-attachments/assets/507c417c-972d-4cb1-b854-4ecbd36260f3" />
-
-# Distribution of Product Categories
 
 The "Distribution of Product Categories" pie chart reveals which product categories dominate the marketplace and where strategic focus could yield the greatest results. According to the chart, the categories with the largest segments—and therefore the highest sales volume or product count—are:
 
