@@ -19,7 +19,7 @@ For more information about Olist, visit: [www.olist.com](https://www.olist.com).
 - Then we going understand the data by visualization
 - After that, we gonna do feature engineering for creating new columns which contain valuable insights
 - Finally, we make assumptions for our dataset and recommendation. In this dataset, we explored the potentials for logististic department.
-## *) Insight 1
+## +) Insight 1
 
 <img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/7e0ee31f-5254-4ab3-a7c2-3260b53e41bf" />
 
@@ -47,7 +47,7 @@ It indicate these products take longer to reach customers.
 - Product categories with consistently high delivery delays or durations could be targeted for process improvements.
 - Understanding which categories are most affected can help optimize logistics and customer satisfaction.
 
-## *) Insight 2
+## +) Insight 2
 
 <img width="1236" height="1770" alt="image" src="https://github.com/user-attachments/assets/507c417c-972d-4cb1-b854-4ecbd36260f3" />
 
