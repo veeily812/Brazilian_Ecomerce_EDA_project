@@ -62,4 +62,14 @@ The "Distribution of Product Categories" pie chart reveals which product categor
 Focusing on these high-volume categories can help maximize sales and market share, as they represent the core interests of the customer base. Additionally, monitoring trends in these categories allows for timely inventory adjustments and targeted marketing campaigns. For further growth, consider exploring opportunities in smaller yet emerging segments such as **brinquedos** (toys), **perfumaria** (perfumery), and **bebe** (baby products), which may offer potential for expansion with the right promotional strategies.
 
 By prioritizing these specific product categories, the marketplace can better align its resources with consumer demand and drive sustained business growth.
+## +) Insight 3
+<img width="870" height="556" alt="image" src="https://github.com/user-attachments/assets/d8d61048-a0da-470c-a53a-ffad99a39bf6" />
+<img width="879" height="556" alt="image" src="https://github.com/user-attachments/assets/f5ca5b21-80cc-4849-9b47-13f414b7fa29" />
 
+
+The "Peak Shopping Hours" bar chart reveals clear patterns in customer purchasing behavior throughout the day. The highest volume of orders occurs during the late afternoon, specifically around 3 PM to 4 PM, with order counts exceeding 7,000 during these hours. This suggests that customers are most active and likely to make purchases in the mid-to-late afternoon, possibly coinciding with breaks from work or daily routines.
+
+Order volume drops significantly during the evening and reaches its lowest point in the early morning hours (midnight to 5 AM), where fewer than 1,000 orders are placed per hour. This pattern indicates that shopping activity is minimal overnight and gradually increases as the day progresses.
+
+**Assumption:**  
+Businesses can optimize marketing campaigns, promotions, and customer engagement strategies by targeting peak shopping hours in the afternoon. Additionally, staffing and logistics can be adjusted to accommodate higher order volumes during these times, improving operational efficiency and customer satisfaction.
