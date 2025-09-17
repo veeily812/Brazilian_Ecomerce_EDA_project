@@ -25,7 +25,7 @@ For more information about Olist, visit: [www.olist.com](https://www.olist.com).
 
 This section summarizes key findings from the analysis of delivery durations and delays across product categories.
 
-## 1. Product Category Impacts Delivery Performance
+### 1. Product Category Impacts Delivery Performance
 Some categories consistently have longer carrier handling times, delivery durations, or delays such as
 + aticos de natal (chirstmas decoration)
 + móveis escritório (furniture designed for office or workspace)
@@ -33,15 +33,15 @@ Some categories consistently have longer carrier handling times, delivery durati
 
 It indicate these products take longer to reach customers.
 
-## 2. Carrier Handling and Delivery Delays Are Not Uniform
+### 2. Carrier Handling and Delivery Delays Are Not Uniform
 - The difference in blue (carrier handling days) and orange (delivery delay days) bars across categories suggests that logistics efficiency and punctuality vary by product type.
 - Categories with negative delivery delay days (orange bars below zero) may be delivered earlier than estimated.
 
-## 3. Potential Bottlenecks or Efficiency
+### 3. Potential Bottlenecks or Efficiency
 - Categories with high carrier handling days might face bottlenecks in shipping or require special handling.
 - Categories with low or negative delivery delay days may have more reliable or faster delivery processes.
 
-## 4. Areas for Improvement
+### 4. Areas for Improvement
 - Product categories with consistently high delivery delays or durations could be targeted for process improvements.
 - Understanding which categories are most affected can help optimize logistics and customer satisfaction.
 
