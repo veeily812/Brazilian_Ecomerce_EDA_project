@@ -73,3 +73,15 @@ Order volume drops significantly during the evening and reaches its lowest point
 
 **Assumption:**  
 Businesses can optimize marketing campaigns, promotions, and customer engagement strategies by targeting peak shopping hours in the afternoon. Additionally, staffing and logistics can be adjusted to accommodate higher order volumes during these times, improving operational efficiency and customer satisfaction.
+
+# Future actions
+- Statistical analysis (correlations, ANOVA on delivery times)
+
+- Outlier detection and data quality checks
+
+- Predictive modeling (e.g. regression to predict delivery delay or order value)
+
+- Dashboarding tools (Tableau / Power BI / Plotly Dash)
+
+- Advanced visual design (heatmaps, pairplots, categorical histograms)
+
